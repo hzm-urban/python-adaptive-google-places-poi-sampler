@@ -28,7 +28,7 @@ cd python-adaptive-google-places-poi-sampler
 
 **Dependencies:**
 You will need the following Python libraries installed in your environment:
-`pandas`, `geopandas`, `shapely`, `requests`, `numpy`, and `matplotlib`.
+`pandas`, `geopandas`, `shapely`, `requests`, `numpy`, `scipy`, `matplotlib`, and `matplotlib-scalebar`.
 
 ## Usage / Quick Start
 The complete sampling algorithm and visualization tools are contained within `restaurants_google_API_Eng_final.ipynb`. 
