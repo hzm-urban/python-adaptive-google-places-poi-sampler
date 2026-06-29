@@ -13,10 +13,10 @@ Existing spatial sampling strategies, such as **fixed grid approaches**, face an
 
 ## Key Features
 
-* 💰 **Massive Cost Reduction:** Reduces the total number of API calls by **80% to 99%** compared to conventional fixed-grid baselines.
-* 🎯 **100% Data Completeness:** Geometrically guarantees zero data omissions by naturally adapting to any extreme urban density.
-* 🌍 **High Versatility:** While optimized for Google Places API (Nearby Search), the core continuous subtraction algorithm can be easily adapted to other commercial APIs with pagination or return limits.
-* 🗺️ **Interactive & Accessible:** The entire algorithm is provided as an easy-to-use Jupyter Notebook, making it simple to visualize sampling boundaries and understand the iterative process.
+* **Massive Cost Reduction:** Reduces the total number of API calls by **80% to 99%** compared to conventional fixed-grid baselines.
+* **100% Data Completeness:** Geometrically guarantees zero data omissions by naturally adapting to any extreme urban density.
+* **High Versatility:** While optimized for Google Places API (Nearby Search), the core continuous subtraction algorithm can be easily adapted to other commercial APIs with pagination or return limits.
+* **Interactive & Accessible:** The entire algorithm is provided as an easy-to-use Jupyter Notebook, making it simple to visualize sampling boundaries and understand the iterative process.
 
 ## Installation
 Since the project is provided as a standalone Jupyter Notebook, simply clone the repository and ensure you have the standard geospatial and data science libraries installed.
