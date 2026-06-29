@@ -42,7 +42,7 @@ The complete sampling algorithm and visualization tools are contained within `re
 4. **Run all cells:** The notebook will systematically execute the adaptive sampling, print the progress, dynamically adjust the search radii, and output a clean DataFrame of retrieved POIs without duplicates.
 5. The notebook also includes visualization cells to help you verify the sampling strategy geometrically on a map.
 
-## Citaion
+## Citation
 This tool is based on the research accepted for publication in the ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (2026). The official publication details (DOI, volume, etc.) will be updated once published.
 
 If you use this tool in your research, please cite our paper as follows for now:
@@ -57,4 +57,4 @@ If you use this tool in your research, please cite our paper as follows for now:
 ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
