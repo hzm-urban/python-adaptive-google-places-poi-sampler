@@ -43,18 +43,22 @@ The complete sampling algorithm and visualization tools are contained within `re
 5. The notebook also includes visualization cells to help you verify the sampling strategy geometrically on a map.
 
 ## Citation
-This tool is based on the research accepted for publication in the ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (2026). The official publication details (DOI, volume, etc.) will be updated once published.
+This tool is based on the research accepted for publication in the ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (2026). 
 
 If you use this tool in your research, please cite our paper as follows for now:
 ```bibtex
-@inproceedings{kikuchi2026adaptive,
-  title={Democratizing high-resolution urban data: A cost-effective greedy algorithm for POI retrieval using Google Places API},
-  author={Kikuchi, Hozumi; Inoue, Takuo; Nakajima, Hiroki& Koizumi, Hideki},
-  booktitle={ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (Accepted)},
-  year={2026},
-  note={Accepted for publication}
+@article{kikuchi2026,
+  author    = {Kikuchi, Hozumi and Inoue, Takuo and Nakajima, Hiroki and Koizumi, Hideki},
+  title     = {Democratizing High-Resolution Urban Data: A Cost-Effective Greedy Algorithm for POI Retrieval using Google Places API},
+  journal   = {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume    = {XII-4/W2-2026},
+  pages     = {89--95},
+  year      = {2026},
+  doi       = {10.5194/isprs-annals-XII-4-W2-2026-89-2026},
+  url       = {[https://doi.org/10.5194/isprs-annals-XII-4-W2-2026-89-2026](https://doi.org/10.5194/isprs-annals-XII-4-W2-2026-89-2026)}
 }
 ```
-
+Hozumi Kikuchi, Takuo Inoue, Hiroki Nakajima, and Hideki Koizumi, "Democratizing High-Resolution Urban Data: A Cost-Effective Greedy Algorithm for POI Retrieval using Google Places API".
+ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., XII-4/W2-2026, 89–95, https://doi.org/10.5194/isprs-annals-XII-4-W2-2026-89-2026, 2026
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
